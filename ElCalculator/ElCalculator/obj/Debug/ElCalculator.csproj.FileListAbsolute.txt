@@ -1,0 +1,10 @@
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\bin\Debug\ElCalculator.exe.config
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\bin\Debug\ElCalculator.exe
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\bin\Debug\ElCalculator.pdb
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\obj\Debug\ElCalculator.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\obj\Debug\ElCalculator.Form1.resources
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\obj\Debug\ElCalculator.Properties.Resources.resources
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\obj\Debug\ElCalculator.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\obj\Debug\ElCalculator.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\obj\Debug\ElCalculator.exe
+C:\Users\phili\source\repos\ElCalculator\ElCalculator\obj\Debug\ElCalculator.pdb
